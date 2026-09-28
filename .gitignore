@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+isorespin-build-*/
+/linuxium-*.iso
+/linuxium-*.iso.build.json
+.idea
